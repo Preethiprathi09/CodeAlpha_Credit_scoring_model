@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score,roc_auc
+LogisticRegression,1.0,1.0,1.0,1.0,1.0
+DecisionTree,1.0,1.0,1.0,1.0,1.0
+RandomForest,1.0,1.0,1.0,1.0,1.0
